@@ -1,10 +1,10 @@
 [{
-	"id": 2503
+	"id": 2503,
 	"title": "Math Assignment",
 	"info": "Finish Math Assignment and hand up on Friday",
 	"duedate": "6/3/20"
 }, {
-	"id": 2603
+	"id": 2603,
 	"title": "Math Tutorial",
 	"info": "Math Tutorial 1B",
 	"duedate": "6/3/20"
