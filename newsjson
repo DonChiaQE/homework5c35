@@ -1,140 +1,15 @@
 [
 {
 	"id": 1, 
-	"title": "V 0.5.0", 
+	"title": "Partnership Announcement", 
 	"date": "17/5/2020",
-	"body": "You working?"
+	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum."
 },
 
 {
 	"id": 2, 
-	"title": "V 1.0", 
+	"title": "Android version in development", 
 	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 3, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 4, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 5, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 6, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 7, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 8, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 9, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 10, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-{
-	"id": 11, 
-	"title": "V 0.5.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 12, 
-	"title": "V 1.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 13, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 14, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 15, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 16, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 17, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 18, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 19, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
-},
-
-{
-	"id": 20, 
-	"title": "V 2.0", 
-	"date": "17/5/2020",
-	"body": "You working?"
+	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum."
 }
 ]
