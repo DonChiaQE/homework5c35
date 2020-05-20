@@ -2,6 +2,7 @@
 {
 	"id": 1, 
 	"title": "V 0.50", 
+	"author": "Diego Bustamante",
 	"date": "17/5/2020",
 	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum."
 },
@@ -9,6 +10,7 @@
 {
 	"id": 2, 
 	"title": "V 1.0", 
+	"author": "Don Chia",
 	"date": "17/5/2020",
 	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum."
 }
