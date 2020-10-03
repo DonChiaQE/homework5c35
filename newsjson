@@ -1,9 +1,19 @@
 [
 {
 	"id": 1, 
-	"title": "Beta 2.0", 
+	"title": "Partnership Announcement", 
 	"author": "Josh Chiodo",
-	"date": "03/10/2020",
-	"body": "Welcome beta testers! Thanks so much for taking the time to help us with our app – we appreciate it! Hopefully the nossaflex app will help you log your data more efficiently and help you refer back to the data you've input.",
+	"date": "17/5/2020",
+	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum.",
+	"image": "https://i.imgur.com/hLB3cfK.png"
 },
+
+{
+	"id": 2, 
+	"title": "Android version in development", 
+	"author": "Don Chia",
+	"date": "17/5/2020",
+	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam diam mauris, malesuada at lacus eget, rutrum efficitur arcu. Ut scelerisque luctus magna, vel feugiat libero. Duis semper odio sed tempor pellentesque. Mauris ut sagittis lectus. Pellentesque viverra sed lectus nec tincidunt. Nam maximus malesuada faucibus. Etiam ut ornare orci. Donec id metus et sem auctor iaculis nec eget lorem. Phasellus sed aliquet velit. In mattis lacus quis varius finibus. Proin pretium porttitor massa, vel convallis tellus pharetra ut. Vivamus id nunc semper, sagittis ipsum mattis, posuere lacus. Maecenas mattis aliquam rutrum.",
+	"image": "https://i.imgur.com/hLB3cfK.png"
+}
 ]
